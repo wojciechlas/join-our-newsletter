@@ -1,5 +1,6 @@
 body {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
 
     background-color: #F9FAFB;
 
@@ -23,7 +24,7 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 48px;
     font-weight: 600;
     color: #000000;
 
@@ -31,7 +32,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.25rem;
+    font-size: 20px;
     font-weight: 400;
     color: #6C727F;
     
@@ -58,7 +59,7 @@ input {
     border: #E5E7EB 1px solid;
     border-radius: 10px;
 
-    font-size: 1rem;
+    font-size: 16px;
     font-weight: 500;
     color: #394150;
     text-align: center;
@@ -75,7 +76,7 @@ button {
     border: #E5E7EB 1px solid;
     border-radius: 10px;
 
-    font-size: 1rem;
+    font-size: 16px;
     font-weight: 600;
     color: #FFFFFF;
     text-align: center;
@@ -84,7 +85,7 @@ button {
 }
 
 caption {
-    font-size: 0.875rem;
+    font-size: 14px;
     font-weight: 400;
 }
 
